@@ -1,4 +1,4 @@
-Hola, I'm Utkarsh Shankar! 👋
+Hi, I'm Utkarsh Shankar! 👋
 
 <!--
 **utkar-sh1/utkar-sh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
