@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkar-sh1&show_icons=true&locale=en" alt="utkar-sh1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkar-sh1&" alt="utkar-sh1" /></p>
+<h3 align="center">You are among the special ones...</h3>
+<p align="center"><img src="https://profile-counter.glitch.me/utkar-sh1/count.svg"/>
