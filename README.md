@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Shankar</h1>
-<h3 align="center">A frontend developer and a ML enthusiast</h3>
+<h3 align="center"> C++, JavaScript Developer 👨‍💻. AI/ML Passionate 🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkar-sh1&label=Profile%20views&color=0e75b6&style=flat" alt="akashsolanki1101" /> </p>
 
