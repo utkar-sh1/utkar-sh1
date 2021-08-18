@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/UtkarshShankar1" target="blank"><img src="https://img.shields.io/twitter/follow/UtkarshShankar1?logo=twitter&style=for-the-badge" alt="UtkarshShankar1" /></a> </p>
 
-- 🔭 I’m currently working on frontend projects.
+- 🔭 I’m currently working on frontend projects and doing CP.
 
 - 💬 Ask me about MATLAB, C/C++, Javascipt.
 
