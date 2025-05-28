@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Shankar</h1>
-<h3 align="center"> C++, JavaScript Developer 👨‍💻. AI/ML Passionate 🤖</h3>
+<h3 align="center"> C++, Java Developer 👨‍💻. AI/ML Passionate 🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkar-sh1&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshshankar" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on frontend projects and doing CP.
 
-- 💬 Ask me about MATLAB, C/C++, Javascipt.
+- 💬 Ask me about MATLAB, C/C++, Java.
 
 - 📫 How to reach me **utkarsh.shankar100@gmail.com**
 
